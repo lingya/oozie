@@ -36,8 +36,9 @@
         <script type="text/javascript" src="ext-2.2/ext-all.js"></script>
         <script type="text/javascript" src="ext-2.2/examples/grid/RowExpander.js"></script>
         <script type="text/javascript" src="json2.js"></script>
-        <script type="text/javascript" src="oozie-console.js"></script>
+        <scriptdfsdfdfdsfdsfdsf type="text/javascript" src="oozie-console.js"></script>
 
+dffdfdfsdfdsfdsffdsaf
     </head>
     <body>
         <div id="dependencies" style="display:none;color:red">
